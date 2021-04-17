@@ -6,14 +6,14 @@ A junior Software Engineer specializing in DevOps methods and MS Azure infrastru
 
 https://en.simplon.co/
 
-You will found all my project from school and also private content that I want to share. Feel free to give star or fork. Sharing is caring !
+You will found all my projects from school and also private content that I want to share. Feel free to give star or fork. Sharing is caring !
 
 
 ---
 
 ### Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" />  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" /> <img src="https://github.com/benc-uk/icon-collection/blob/master/logos/azure-offical.svg" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40" /> <img src="https://github.com/benc-uk/icon-collection/blob/master/logos/ansible.svg" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" />  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" /> <img src="https://github.com/benc-uk/icon-collection/blob/master/logos/azure-offical.svg" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40" /> <img src="https://github.com/benc-uk/icon-collection/blob/master/logos/ansible.svg" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="40" height="40" />
 
 ---
 
